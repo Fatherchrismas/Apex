@@ -1,0 +1,14 @@
+body{
+    background-image: url('kicks2ii.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.demo1, fieldset, form{
+    background-color: lightgray;
+    font-size: 25px;
+    width: 410px;
+    margin-left: 20px;
+    height: 180px;
+    margin-top: 15px;   
+}

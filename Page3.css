@@ -1,0 +1,20 @@
+body{
+    background-image: url('kicks2ii.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#menu a{
+    font-size: 27px;
+    color: black;
+    text-align: end;
+    text-decoration: none;
+    margin: 6px;
+    margin-top: 40px;
+}
+.demo{
+    color:black;
+    margin-left: 340px;
+    margin-top: 250px;
+}

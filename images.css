@@ -1,0 +1,17 @@
+body{
+    background-image: url('kicks2ii.jpg') ;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.demo2, iframe{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.demo3, video{
+    margin-top: 10px;
+    width: 500px; 
+    height: 350px;
+    border: 4px groove black;
+    margin-left: 430px;
+}
